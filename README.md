@@ -15,3 +15,8 @@
 
 <h3>Current projects</h3>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=Fastpaced-FPS-Game&theme=ambient_gradient" alt="bottle-necc's GitHub Stats" />
+
+<p>
+<a href="https://steamcommunity.com/id/bottle_necc" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=1B2838&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Steam">
+<a href="https://www.youtube.com/@bottlenecc" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube">
+</p>
