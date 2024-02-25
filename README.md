@@ -1,4 +1,4 @@
-<h1 align="center">WORK IN PROGRESS!!!</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=25&duration=7500&color=7BC6F7&background=49FF3200&center=true&repeat=false&random=true&width=435&lines=bottle+necc" alt="Typing SVG" /></a></h1>
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=bottle-necc&theme=ambient_gradient" height="200px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottle-necc&layout=donut&theme=ambient_gradient" height="200px"> </p>
@@ -11,6 +11,7 @@
 </p>
 
 <h3>About Me</h3>
+
 
 <h3>Current projects</h3>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=Fastpaced-FPS-Game&theme=ambient_gradient" alt="bottle-necc's GitHub Stats" />
