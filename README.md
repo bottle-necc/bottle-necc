@@ -18,5 +18,6 @@
 
 <p>
 <a href="https://steamcommunity.com/id/bottle_necc" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=1B2838&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Steam">
+<a href="https://twitter.com/bottle_necc" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Steam">
 <a href="https://www.youtube.com/@bottlenecc" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube">
 </p>
