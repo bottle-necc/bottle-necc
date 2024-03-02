@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&size=40&duration=5000&pause=10000&color=FFFFFF&background=49FF3200&center=true&repeat=true&random=false&width=435&lines=BOTTLE+NECC" alt="bottle necc" /></a></h1>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bottle-necc&theme=ambient_gradient" height="225px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottle-necc&layout=donut&theme=ambient_gradient" height="225px"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bottle-necc&theme=ambient_gradient" height="212.5px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottle-necc&layout=donut&theme=ambient_gradient" height="212.5px"> </p>
 
 <p align="left"> <a href="https://godotengine.org/" target="_blank" rel="noferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" width="40" height="40"> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a> 
