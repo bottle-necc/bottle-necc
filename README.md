@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bottle-necc&theme=ambient_gradient" height="212.5px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottle-necc&layout=donut&theme=ambient_gradient" height="212.5px"> </p>
 
-<p align="left"> <a href="https://godotengine.org/" target="_blank" rel="noferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" width="40" height="40"> </a> 
+<p align="left"> <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" width="40" height="40"> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="HTML" width="40" height="40"/> </a>
@@ -16,7 +16,7 @@
 
 
 <h3>Current projects</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=Fastpaced-FPS-Game&theme=ambient_gradient" alt="bottle-necc's GitHub Stats" />
+<a href="https://github.com/bottle-necc/Fastpaced-FPS-Game" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=Fastpaced-FPS-Game&theme=ambient_gradient" alt="bottle-necc's GitHub Stats" /> </a>
 
 <p>
 <a href="https://steamcommunity.com/id/bottle_necc" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=1B2838&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Steam">
