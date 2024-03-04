@@ -3,6 +3,8 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bottle-necc&theme=ambient_gradient" height="212.5px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottle-necc&layout=donut&theme=ambient_gradient" height="212.5px"> </p>
 
+<sub>This README is still work in progress</sub>
+
 <h3>About Me</h3>
 
 Favorite games: <br>
