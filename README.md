@@ -10,7 +10,7 @@ Favorite games: <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=1&pause=1500&color=FFFFFF&vCenter=true&random=false&width=435&height=13&lines=1%2F19+Battlefield+1;2%2F19+Battlefield+3;3%2F19+Battlefield+4;4%2F19+Dark+Souls+Remastered;5%2F19+Doom+Eternal;6%2F19+Helldivers+2;7%2F19+Hitman+WoA;8%2F19+Mirrors+Edge;9%2F19+Mirrors+Edge+Catalyst;10%2F19+Metal+Hellsinger;11%2F19+Metro+Exodus;12%2F19+Payday+2;13%2F19+Slimerancher;14%2F19+Squad;15%2F19+Subnautica;16%2F19+Titanfall+2;17%2F19+Yakuza+0;18%2F19+Yakuza+Kiwami;19%2F19+Yakuza+Kiwami+2" alt="Typing SVG" /></a>
 
 Favorite bands: <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=1&pause=1500&color=FFFFFF&vCenter=true&random=false&width=435&height=14&lines=1%2F12+All+That+Remains;2%2F12+Amon+Amarch;3%2F12+Arch+Enemy;4%2F12+Bullet+For+My+Valentine;5%2F12+Dark+Tranquility;6%2F12+Death;7%2F12+In+Flames;8%2F12+Insomnium;9%2F12+Killswitch+Engage;10%2F12+Soilwork;11%2F12+The+Halo+Effect;12%2F12+Trivium" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=1&pause=1500&color=FFFFFF&vCenter=true&random=false&width=435&height=14&lines=1%2F14+The+Agonist;2%2F14+All+That+Remains;3%2F14+Amon+Amarch;4%2F14+Arch+Enemy;5%2F14+Bullet+For+My+Valentine;6%2F14+Darkest+Hour;7%2F14+Dark+Tranquility;8%2F4+Death;9%2F14+In+Flames;10%2F14+Insomnium;11%2F14+Killswitch+Engage;12%2F14+Soilwork;13%2F14+The+Halo+Effect;14%2F14+Trivium" alt="Typing SVG" /></a>
 
 <h3>Skills</h3>
 
