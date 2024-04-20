@@ -25,7 +25,7 @@ Favorite bands: <br>
 <h3>Current projects</h3>
 <a href="https://github.com/bottle-necc/Fastpaced-FPS-Game" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=Fastpaced-FPS-Game&theme=ambient_gradient" alt="bottle-necc's GitHub Stats" height=125p /> </a>
 <a href="https://github.com/bottle-necc/paint-program" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=paint-program&theme=ambient_gradient" alt="bottle-necc's GitHub Stats" height=125p /> </a>
-<a href="https://github.com/bottle-necc/bottlenecc.github.io" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=bottlenecc.github.iom&theme=ambient_gradient" alt="bottle-necc's GitHub Stats" height=125p /> </a>
+<a href="https://github.com/bottle-necc/bottle-necc.github.io" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=bottle-necc.github.iom&theme=ambient_gradient" alt="bottle-necc's GitHub Stats" height=125p /> </a>
 
 <h2>Spotify Live View</h2>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=redactedisthecode&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Live View" />
