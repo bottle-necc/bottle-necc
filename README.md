@@ -23,8 +23,8 @@ Favorite bands: <br>
 </p>
 
 <h3>Current projects</h3>
-<a href="https://github.com/bottle-necc/Fastpaced-FPS-Game" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=Fastpaced-FPS-Game&theme=ambient_gradient" alt="bottle-necc's GitHub Stats"  /> </a> <br>
-<a href="https://github.com/bottle-necc/paint-program" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=paint-program&theme=ambient_gradient" alt="bottle-necc's GitHub Stats"  /> </a> <br>
+<a href="https://github.com/bottle-necc/Fastpaced-FPS-Game" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=Fastpaced-FPS-Game&theme=ambient_gradient" alt="bottle-necc's GitHub Stats"  /> </a>
+<a href="https://github.com/bottle-necc/paint-program" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=paint-program&theme=ambient_gradient" alt="bottle-necc's GitHub Stats"  /> </a> 
 <a href="https://github.com/bottle-necc/bottle-necc.github.io" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=bottle-necc.github.io&theme=ambient_gradient" alt="bottle-necc's GitHub Stats" /> </a>
 
 <h2>Spotify Live View</h2>
