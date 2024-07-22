@@ -27,7 +27,7 @@ Favorite bands: <br>
 <a href="https://github.com/bottle-necc/bottle-necc.github.io" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=bottle-necc.github.io&theme=ambient_gradient" alt="bottle-necc's GitHub Stats" /> </a>
 
 <h2>Spotify Live View</h2>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=redactedisthecode&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Live View" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=redactedisthecode&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Live View" />
 
 <p>
 <a href="https://steamcommunity.com/id/bottle_necc" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=1B2838&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Steam">
