@@ -7,10 +7,10 @@
 <h3>About Me</h3>
 
 Favorite games: <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=1&pause=1500&color=FFFFFF&vCenter=true&random=false&width=435&height=13&lines=1%2F19+Battlefield+1;2%2F19+Battlefield+3;3%2F19+Battlefield+4;4%2F19+Dark+Souls+Remastered;5%2F19+Doom+Eternal;6%2F19+Helldivers+2;7%2F19+Hitman+WoA;8%2F19+Mirrors+Edge;9%2F19+Mirrors+Edge+Catalyst;10%2F19+Metal+Hellsinger;11%2F19+Metro+Exodus;12%2F19+Payday+2;13%2F19+Slimerancher;14%2F19+Squad;15%2F19+Subnautica;16%2F19+Titanfall+2;17%2F19+Yakuza+0;18%2F19+Yakuza+Kiwami;19%2F19+Yakuza+Kiwami+2" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=1&pause=1500&color=FFFFFF&vCenter=true&random=false&width=435&height=13&lines=1%2F26+Battlefield+1;2%2F26+Battlefield+3;3%2F26+Battlefield+4;4%2F26+Deep+Rock+Galactic;5%2F26+Doom+Eternal;6%2F26+Elden+Ring;7%2F26+Ghostrunner+2;8%2F1926+Helldivers+2;9%2F26+Hitman+WoA;10%2F26+Judgment;11%2F26+Lies+Of+P;12%2F26+Metal+Gear+Rising:+Revengeance;13%2F26+Metal+Hellsinger;14%2F26+Metro+Exodus;15%2F26+Mirror's+Edge;16%2F26+Mirror's+Edge+Catalyst;17%2F26+Payday+2;18%2F26+Ready+Or+Not;19%2F26+Stalker+2;20%2F26+Slimerancher;21%2F26+Slimerancher+2;22%2F26+Subnautica;23%2F26+Titanfall+2;24%2F26+Yakuza+0;25%2F26+Yakuza+Kiwami;26%2F26+Yakuza+Kiwami+2" alt="Typing SVG" /></a>
 
 Favorite bands: <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=1&pause=1500&color=FFFFFF&vCenter=true&random=false&width=435&height=14&lines=1%2F16+The+Agonist;2%2F16+All+That+Remains;3%2F16+Amon+Amarch;4%2F16+Arch+Enemy;5%2F16+The+Black+Dhalia+Murder;6%2F16+Bullet+For+My+Valentine;7%2F16+Darkest+Hour;8%2F16+Dark+Tranquility;9%2F16+Death;10%2F16+Eye+of+the+Enemy;11%2F16+The+Halo+Effect;12%2F16+In+Flames;13%2F16+Insomnium;14%2F16+Killswitch+Engage;15%2F16+Sylosis;16%2F16+Trivium" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=1&pause=1500&color=FFFFFF&vCenter=true&random=false&width=435&height=14&lines=1%2F18+The+Agonist;2%2F18+All+That+Remains;3%2F18+Amon+Amarch;4%2F18+Arch+Enemy;5%2F18+Bullet-For-My-Valentine;6%2F18+Caliban;7%2F18+Darkest+Hour;8%2F18+Dark+Tranquility;9%2F18+Death;10%2F18+Fit-For-An-Autopsy;11%2F18+The+Halo+Effect;12%2F18+In+Flames;13%2F18+Insomnium;14%2F18+Killswitch+Engage;15%2F18+The+Raven+Age;16%2F18+Sylosis;17%2F18?System?Of?A?Down;18%2F18+Trivium" alt="Typing SVG" /></a>
 
 <h3>Skills</h3>
 
@@ -26,12 +26,12 @@ Favorite bands: <br>
 <h3>Current projects</h3>
 <a href="https://github.com/bottle-necc/Fastpaced-FPS-Game" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=Fastpaced-FPS-Game&theme=ambient_gradient" alt="bottle-necc's GitHub Stats"  /> </a>
 <a href="https://github.com/bottle-necc/bottle-necc.github.io" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bottle-necc&repo=bottle-necc.github.io&theme=ambient_gradient" alt="bottle-necc's GitHub Stats" /> </a>
+<p>Halted because of studies!!</p>
 
 <h2>Spotify Live View</h2>
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=redactedisthecode&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Live View" />
 
 <p>
 <a href="https://steamcommunity.com/id/bottle_necc" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=1B2838&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Steam">
-<a href="https://twitter.com/bottle_necc" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Steam">
 <a href="https://www.youtube.com/@bottlenecc" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube">
 </p>
