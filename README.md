@@ -1,6 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&size=40&duration=5000&pause=10000&color=FFFFFF&background=49FF3200&center=true&repeat=true&random=false&width=435&lines=BOTTLE+NECC" alt="bottle necc" /> </a></h1>
 
-<sub>This README is still work in progress</sub>
 <h3>About Me</h3>
 
 Favorite games: <br>
